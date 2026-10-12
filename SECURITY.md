@@ -15,7 +15,7 @@ Please include the affected repository and version or commit, the steps to repro
 
 ## What to expect
 
-- We aim to acknowledge reports within 3 business days.
+- We aim to acknowledge reports within 7 days.
 - We will keep you updated while we investigate and fix the issue, and credit you in the advisory or release notes unless you prefer otherwise.
 - Please give us a reasonable chance to release a fix before disclosing publicly.
 
